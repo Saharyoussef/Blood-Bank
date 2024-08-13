@@ -44,7 +44,7 @@ Copier le code: git clone https://github.com/yourusername/blood-donation-website
 Copier le code: cd blood-donation-website
 
 3- Install the dependencies:
-Copier le code: npm install
+Copier le code: npm install @mui/material @emotion/react @emotion/styled
 
 4- Start the development server:
 Copier le code:npm start
